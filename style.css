@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: rgb(26, 36, 131);
+    font-size: 50px;
+}
+
+.imagens{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+
+body{
+    background-color: rgb(121, 240, 200);
+}
